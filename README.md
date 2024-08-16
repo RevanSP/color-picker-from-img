@@ -1,5 +1,5 @@
  <body>
-    <h1>COLOR PICKER FROM IMG</h1>
+    <h1>COLOR-PICKER-FROM-IMG</h1>
     <h2>Made With :</h2>
 <ul>
     <li>HTML</li>
